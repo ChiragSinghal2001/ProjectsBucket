@@ -7,7 +7,7 @@ import { Navbar, Footer, ScrollToTop } from "@/components";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "ProjectsHut - Learn. Build. Share.",
+  title: "ProjectsBucket - Learn. Build. Share.",
   description:
     "A platform where you can share your open source projects with the world.",
 };
